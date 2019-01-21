@@ -1,0 +1,2 @@
+Spark Streaming API can consume from sources like Kafka, Flume, Twitter source to name a few.
+It can then apply transformations on the data to get the desired result which can be pushed further downstream.
